@@ -49,12 +49,12 @@ export const sampleMessage = [
   {
     attachments: [
       {
-        public_id: "asdfg",
+        public_id: "assdfdfg",
         url: "https://www.w3schools.com/howto/img_avatar.png",
       },
     ],
     content: "shity message",
-    _id: "sfnsdjkfsdnfkjsbnd",
+    _id: "sfnsdjkfsdnfkjsbsdfnd",
     sender: {
       _id: "user._id",
       name: "Chaman",
